@@ -14,7 +14,7 @@ Palm is designed from the ground up to be as flexible as artists are creative. T
 ### Phase 1:
 Building an Interactive Interface for user to Connect an Ethereum Wallet [MetaMask](https://metamask.io/).
 
-## Phase 1 Part 2:
+### Phase 1 Part 2:
 Adding [Palm](palm.io) Blockchain configurations to users Metamask Using Custom RPCs.
 
 ### Phase 2:
